@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Basic styling */
+  body {
+    font-family: cursive;
+    line-height: 1cm;
+    background-color:darkslategrey;
+    color: whitesmoke;
+  }
+  
+  header {
+    background-color: black;
+    color: paleturquoise;
+    padding: 1rem;
+    text-align: left;
+  }
+  
+  h1 {
+    margin-bottom: 2rem;
+    
+  }
+  
+  nav ul {
+    list-style: lower-roman;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 1rem;
+  }
+  
+  nav ul li a {
+    color: blueviolet;
+    text-decoration: aqua;
+  }
+  
+  main {
+    padding: 1rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    margin-bottom: 1rem;
+  }
+  
+  figure {
+    margin-bottom: 1rem;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  figcaption {
+    font-style: italic;
+  }
+  
+  footer {
+    background-color: burlywood;
+    color: black;
+    padding: 2rem;
+    text-align: left;
+  }
